@@ -1,5 +1,4 @@
 
-[![Issues][issues-shield]][issues-url]
 <br />
 <p align="center">
   
